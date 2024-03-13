@@ -25,6 +25,12 @@ body
     vertical-align: middle;
 }
 
+
+#post #moto
+{
+    width: 300px;
+    vertical-align: middle;
+}
 #cabecera #tagline
 {
     padding: 0 0 0 1em;
